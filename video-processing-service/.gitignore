@@ -1,8 +1,10 @@
-node_modules
+node_modules/
 .DS_Store
 *.pkg
 *.tar
 *.mp4
 *.log
+*.sh
 .env
-.google-cloud-sdk
+google-cloud-sdk/
+gcloud-*
